@@ -55,4 +55,4 @@ LOGOUT_REDIRECT_URL = '/alumnos'
 
 NOTA: Acordate de los decoradores.-
 
-## Paso extra. agrega al model de alumnos un status que tenga solo una serie de opciones [validas](validas)
+## Paso extra. agrega al model de alumnos un status que tenga solo una serie de opciones validas.
