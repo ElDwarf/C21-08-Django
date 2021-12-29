@@ -1,6 +1,6 @@
 # Ejersicio 01
 
-Basando el repositorio del ejercicio anterior o en el del ejemplo ((Repo)[https://github.com/ElDwarf/django-examples]), implementar los siguientes cambios.
+Basando el repositorio del ejercicio anterior o en el del ejemplo [Repo](https://github.com/ElDwarf/django-examples), implementar los siguientes cambios.
 
 
 ## Paso 1. Crear un branch en el repositorio.
